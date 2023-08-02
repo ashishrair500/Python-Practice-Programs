@@ -1,6 +1,6 @@
 #Anmol
 class employee():
- 	def __init__(self):
+ 	def __init__(self): 
  		self.firstname = input("Enter Your First Name : ")
  		self.lastname = input("Enter Your Last Name : ")
  		self.education = input("Enter Your Educational Qualification : ")
